@@ -1,6 +1,6 @@
 # bitcoin_miner
 
-<h3>To get this app functionality Get All Packages.</h3>
+<h3>To get Full-App Functionality Get All Packages.</h3>
 <h3>This app user live Data from api to get all current crypto exchange Rates.</h3><br>
 
 
